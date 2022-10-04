@@ -33,7 +33,7 @@ struct Aretha: View{
                     HStack{
                         Text("Known as the “Queen of Soul”, Aretha Louise Franklin imprinted her mark in the Motor City.  She was the daughter of a prominent Baptist Minister and Civil Rights Activist, who pastored the New Bethel Baptist Church in Detroit.  Her reigning success includes 100 R&B entries with 17 top-ten singles, 20 number one singles and landing on the Billboard charts with 112 singles recorded.  Aretha was immersed in the struggle for women’s and civil rights.  At times she covered payrolls for civil rights groups and performed for demonstrations. She was once locked up for disturbing the peace in Detroit during a protest. In 1985, her voice was declared a Michigan “natural resource”  and in 1987 she became the first woman to be inducted into the Rock and Roll Hall of Fame.")
                             .font(.system(size: 12))
-                            .multilineTextAlignment(.leading)
+                            .multilineTextAlignment(.center)
                             .foregroundColor(darkestGreen)
                             .lineSpacing(2)
                             .frame(width: 300, height: 300)
