@@ -23,6 +23,13 @@ struct Aretha: View{
                 backgroundGradient
                     .ignoresSafeArea()
                 
+                
+                
+                
+                
+                
+                
+                
                 VStack{
                     
                     Text("Aretha Franklin")
